@@ -7,7 +7,7 @@ TutorialMaker t = new TutorialMaker(YourActivity.this);
 ```
 - move the pointer to x y 
 ```
-t.moveTo(x,y);
+t.moveTo(x,y,duration);
 ```
 - move the pointer to View
 ```
